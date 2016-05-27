@@ -1,0 +1,30 @@
+body {
+  background-color: ivory;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+  color: #664f41;
+}
+
+h3 {
+  font-size: 22px;
+  color: #84b7e2;
+}
+
+img {
+  border-color: #fff44c;
+  border-width: 5px;
+  border-style: solid;
+}
+
+
+p {
+  font-size: 18px;
+  
+  
+}
+
+ul {
+  background-color: #c2e5ef;
+}
