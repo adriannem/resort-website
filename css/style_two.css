@@ -1,0 +1,30 @@
+body {
+  background-color: ivory;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+  color: #f4530d;
+}
+
+h3 {
+  font-size: 22px;
+  color: #082c8d;
+}
+
+img {
+  border-color: #ff6262;
+  border-width: 5px;
+  border-style: solid;
+}
+
+
+p {
+  font-size: 18px;
+  
+  
+}
+
+ul {
+  background-color: #ffce37;
+}
