@@ -13,6 +13,7 @@ This is a demonstation site using basic HTML5 and CSS3.
 * _git clone_
 * _cd resort-website_
 * _Open index.html in Google Chrome to view site_
+* _Or, you can simply view the page directly by [clicking here](http://adriannem.github.io/resort-website/index.html)._
 
 ## Support and contact details
 
